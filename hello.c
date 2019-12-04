@@ -2,6 +2,7 @@
 
 int main()
 {
-  printf("hello worldwwwwwwrfrgg");
+        int a=10,b=20,c=0;
+        printf("%d",c=a+b);
   return 0;
 }
